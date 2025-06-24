@@ -1,0 +1,492 @@
+[
+  {
+    "nome": "Poring",
+    "id": "1002",
+    "base_exp": 150,
+    "job_exp": 40,
+    "level": 1
+  },
+  {
+    "nome": "Lunático",
+    "id": "1063",
+    "base_exp": 150,
+    "job_exp": 50,
+    "level": 3
+  },
+  {
+    "nome": "Chonchon",
+    "id": "1011",
+    "base_exp": 150,
+    "job_exp": 60,
+    "level": 5
+  },
+  {
+    "nome": "Rocker",
+    "id": "1052",
+    "base_exp": 174,
+    "job_exp": 110,
+    "level": 15
+  },
+  {
+    "nome": "Poring Ágil",
+    "id": "2699",
+    "base_exp": 750,
+    "job_exp": 600,
+    "level": 1
+  },
+  {
+    "nome": "Fabre",
+    "id": "1007",
+    "base_exp": 158,
+    "job_exp": 65,
+    "level": 6
+  },
+  {
+    "nome": "Jiboia",
+    "id": "1025",
+    "base_exp": 183,
+    "job_exp": 125,
+    "level": 18
+  },
+  {
+    "nome": "Percevejo",
+    "id": "1174",
+    "base_exp": 188,
+    "job_exp": 140,
+    "level": 21
+  },
+  {
+    "nome": "Creamy",
+    "id": "1018",
+    "base_exp": 196,
+    "job_exp": 148,
+    "level": 23
+  },
+  {
+    "nome": "Zangão Fugaz",
+    "id": "2798",
+    "base_exp": 790,
+    "job_exp": 1350,
+    "level": 11
+  },
+  {
+    "nome": "Caramelo",
+    "id": "1103",
+    "base_exp": 214,
+    "job_exp": 156,
+    "level": 25
+  },
+  {
+    "nome": "Pé-Grande",
+    "id": "1060",
+    "base_exp": 235,
+    "job_exp": 176,
+    "level": 29
+  },
+  {
+    "nome": "Poporing",
+    "id": "1031",
+    "base_exp": 229,
+    "job_exp": 181,
+    "level": 30
+  },
+  {
+    "nome": "Besouro-Chifre",
+    "id": "1128",
+    "base_exp": 259,
+    "job_exp": 198,
+    "level": 32
+  },
+  {
+    "nome": "Rocker Fugaz",
+    "id": "2680",
+    "base_exp": 870,
+    "job_exp": 1650,
+    "level": 15
+  },
+  {
+    "nome": "Yoyo",
+    "id": "1057",
+    "base_exp": 300,
+    "job_exp": 237,
+    "level": 38
+  },
+  {
+    "nome": "Koko",
+    "id": "1104",
+    "base_exp": 300,
+    "job_exp": 237,
+    "level": 38
+  },
+  {
+    "nome": "Martin",
+    "id": "1145",
+    "base_exp": 307,
+    "job_exp": 244,
+    "level": 39
+  },
+  {
+    "nome": "Lobo",
+    "id": "1013",
+    "base_exp": 369,
+    "job_exp": 301,
+    "level": 45
+  },
+  {
+    "nome": "Esporo Ágil",
+    "id": "2646",
+    "base_exp": 875,
+    "job_exp": 1875,
+    "level": 18
+  },
+  {
+    "nome": "Argos",
+    "id": "1100",
+    "base_exp": 370,
+    "job_exp": 319,
+    "level": 47
+  },
+  {
+    "nome": "Chonchon de Aço",
+    "id": "1042",
+    "base_exp": 379,
+    "job_exp": 328,
+    "level": 48
+  },
+  {
+    "nome": "Bafomé Jr.",
+    "id": "1101",
+    "base_exp": 488,
+    "job_exp": 435,
+    "level": 57
+  },
+  {
+    "nome": "Selvagem",
+    "id": "1166",
+    "base_exp": 535,
+    "job_exp": 457,
+    "level": 59
+  },
+  {
+    "nome": "Andre Brutal",
+    "id": "2902",
+    "base_exp": 1325,
+    "job_exp": 3060,
+    "level": 33
+  },
+  {
+    "nome": "Louva-a-deus",
+    "id": "1139",
+    "base_exp": 642,
+    "job_exp": 556,
+    "level": 65
+  },
+  {
+    "nome": "Sorrateiro",
+    "id": "1037",
+    "base_exp": 677,
+    "job_exp": 621,
+    "level": 70
+  },
+  {
+    "nome": "Argiope",
+    "id": "1099",
+    "base_exp": 794,
+    "job_exp": 734,
+    "level": 75
+  },
+  {
+    "nome": "Penomena",
+    "id": "1216",
+    "base_exp": 1018,
+    "job_exp": 953,
+    "level": 85
+  },
+  {
+    "nome": "Salgueiro Ancião Brutal",
+    "id": "2840",
+    "base_exp": 1295,
+    "job_exp": 3150,
+    "level": 34
+  },
+  {
+    "nome": "Mosca Caçadora",
+    "id": "1035",
+    "base_exp": 588,
+    "job_exp": 532,
+    "level": 63
+  },
+  {
+    "nome": "Holden",
+    "id": "1628",
+    "base_exp": 1068,
+    "job_exp": 953,
+    "level": 85
+  },
+  {
+    "nome": "Siorava",
+    "id": "2199",
+    "base_exp": 1052,
+    "job_exp": 987,
+    "level": 87
+  },
+  {
+    "nome": "Butoijo",
+    "id": "2155",
+    "base_exp": 1069,
+    "job_exp": 1004,
+    "level": 88
+  },
+  {
+    "nome": "Raggler Fugaz",
+    "id": "2694",
+    "base_exp": 1895,
+    "job_exp": 4920,
+    "level": 48
+  },
+  {
+    "nome": "Mao Guai",
+    "id": "1513",
+    "base_exp": 1086,
+    "job_exp": 1021,
+    "level": 89
+  },
+  {
+    "nome": "Marionete",
+    "id": "1143",
+    "base_exp": 993,
+    "job_exp": 1093,
+    "level": 90
+  },
+  {
+    "nome": "Ginseng Selvagem",
+    "id": "1413",
+    "base_exp": 1103,
+    "job_exp": 1038,
+    "level": 90
+  },
+  {
+    "nome": "Zipper",
+    "id": "1417",
+    "base_exp": 1103,
+    "job_exp": 1038,
+    "level": 90
+  },
+  {
+    "nome": "Golem Estalactítico Feroz",
+    "id": "2644",
+    "base_exp": 3255,
+    "job_exp": 8925,
+    "level": 68
+  },
+  {
+    "nome": "Minérios",
+    "id": "1616",
+    "base_exp": 1158,
+    "job_exp": 1038,
+    "level": 90
+  },
+  {
+    "nome": "Fornalha Velha",
+    "id": "1617",
+    "base_exp": 1238,
+    "job_exp": 1167,
+    "level": 92
+  },
+  {
+    "nome": "Breeze",
+    "id": "1692",
+    "base_exp": 1238,
+    "job_exp": 1167,
+    "level": 92
+  },
+  {
+    "nome": "Ancião",
+    "id": "1377",
+    "base_exp": 1238,
+    "job_exp": 1167,
+    "level": 92
+  },
+  {
+    "nome": "Mosca Caçadora Feroz",
+    "id": "2797",
+    "base_exp": 2940,
+    "job_exp": 7980,
+    "level": 63
+  },
+  {
+    "nome": "Ungoliant",
+    "id": "1618",
+    "base_exp": 4100,
+    "job_exp": 2456,
+    "level": 94
+  },
+  {
+    "nome": "Filhote de Hatii",
+    "id": "1515",
+    "base_exp": 933,
+    "job_exp": 874,
+    "level": 94
+  },
+  {
+    "nome": "Roween",
+    "id": "1782",
+    "base_exp": 1292,
+    "job_exp": 1221,
+    "level": 95
+  },
+  {
+    "nome": "Stapo",
+    "id": "1784",
+    "base_exp": 1356,
+    "job_exp": 1221,
+    "level": 95
+  },
+  {
+    "nome": "Argiope Ágil",
+    "id": "2892",
+    "base_exp": 3970,
+    "job_exp": 11010,
+    "level": 75
+  },
+  {
+    "nome": "Anopheles",
+    "id": "1627",
+    "base_exp": 1292,
+    "job_exp": 1221,
+    "level": 95
+  },
+  {
+    "nome": "Mineral",
+    "id": "1614",
+    "base_exp": 1311,
+    "job_exp": 1240,
+    "level": 96
+  },
+  {
+    "nome": "Montaria Selvagem",
+    "id": "2208",
+    "base_exp": 4150,
+    "job_exp": 1650,
+    "level": 95
+  },
+  {
+    "nome": "Ermitão Maligno",
+    "id": "1412",
+    "base_exp": 1311,
+    "job_exp": 1240,
+    "level": 96
+  },
+  {
+    "nome": "Leshij Fugaz",
+    "id": "2612",
+    "base_exp": 5005,
+    "job_exp": 13335,
+    "level": 81
+  },
+  {
+    "nome": "Obsidiana",
+    "id": "1615",
+    "base_exp": 1396,
+    "job_exp": 1259,
+    "level": 97
+  },
+  {
+    "nome": "Ninfa Perversa",
+    "id": "1416",
+    "base_exp": 1330,
+    "job_exp": 1259,
+    "level": 97
+  },
+  {
+    "nome": "Nereida",
+    "id": "1255",
+    "base_exp": 1416,
+    "job_exp": 1278,
+    "level": 98
+  },
+  {
+    "nome": "Rybio",
+    "id": "1201",
+    "base_exp": 1349,
+    "job_exp": 1278,
+    "level": 98
+  },
+  {
+    "nome": "Miyabi Ningyo Alfa",
+    "id": "2746",
+    "base_exp": 5090,
+    "job_exp": 14295,
+    "level": 85
+  },
+  {
+    "nome": "Siroma",
+    "id": "1776",
+    "base_exp": 1349,
+    "job_exp": 1278,
+    "level": 98
+  },
+  {
+    "nome": "Kaho",
+    "id": "1072",
+    "base_exp": 1349,
+    "job_exp": 1278,
+    "level": 98
+  },
+  {
+    "nome": "Aquecedor",
+    "id": "1318",
+    "base_exp": 1349,
+    "job_exp": 1278,
+    "level": 98
+  },
+  {
+    "nome": "Galion",
+    "id": "1783",
+    "base_exp": 1387,
+    "job_exp": 1316,
+    "level": 100
+  },
+  {
+    "nome": "Yao Jun Alfa",
+    "id": "2796",
+    "base_exp": 5785,
+    "job_exp": 14025,
+    "level": 87
+  },
+  {
+    "nome": "Lude",
+    "id": "1509",
+    "base_exp": 1699,
+    "job_exp": 1390,
+    "level": 101
+  },
+  {
+    "nome": "Poltergeist",
+    "id": "1510",
+    "base_exp": 1565,
+    "job_exp": 1487,
+    "level": 102
+  },
+  {
+    "nome": "Golem de Lava",
+    "id": "1366",
+    "base_exp": 1585,
+    "job_exp": 1507,
+    "level": 103
+  },
+  {
+    "nome": "Yeti",
+    "id": "1775",
+    "base_exp": 1585,
+    "job_exp": 1507,
+    "level": 103
+  },
+  {
+    "nome": "Novus Vermelho Brutal",
+    "id": "2730",
+    "base_exp": 5515,
+    "job_exp": 15570,
+    "level": 90
+  }
+]

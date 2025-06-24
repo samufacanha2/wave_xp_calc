@@ -1,0 +1,67 @@
+// Table categories for user-friendly filtering in XP calculator
+export const tableCategories = [
+  {
+    label: "First",
+    base: "base_normal",
+    job: "job_first",
+    maxLevel: 99,
+    maxJob: 50,
+  },
+  {
+    label: "Second",
+    base: "base_normal",
+    job: "job_second",
+    maxLevel: 99,
+    maxJob: 50,
+  },
+  {
+    label: "Third",
+    base: "base_third",
+    job: "job_third",
+    minLevel: 99,
+    maxLevel: 175,
+    maxJob: 60,
+  },
+  {
+    label: "High First",
+    base: "base_rebirth",
+    job: "job_high_first",
+    maxLevel: 99,
+    maxJob: 50,
+  },
+  {
+    label: "High Second",
+    base: "base_rebirth",
+    job: "job_high_second",
+    maxLevel: 99,
+    maxJob: 70,
+  },
+  {
+    label: "Novice",
+    base: "base_normal",
+    job: "job_novice",
+    maxLevel: 99,
+    maxJob: 10,
+  },
+  {
+    label: "High Novice",
+    base: "base_rebirth",
+    job: "job_high_novice",
+    maxLevel: 99,
+    maxJob: 10,
+  },
+  {
+    label: "Doram",
+    base: "base_doram",
+    job: "job_doram",
+    maxLevel: 110,
+    maxJob: 51,
+  },
+  {
+    label: "Ninja",
+    base: "base_normal",
+    job: "job_ninja",
+    maxLevel: 99,
+    maxJob: 70,
+  },
+];
