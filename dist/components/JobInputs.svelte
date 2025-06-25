@@ -19,7 +19,13 @@
     max={maxLevel}
     step={1}
     onInput={(e) => {
-      let val = +e.target.value;
+      let val = e.target.value;
+      // Allow empty string for editing
+      if (val === "") {
+        setJobLevel("");
+        return;
+      }
+      val = +val;
       if (val < minLevel) val = minLevel;
       if (val > maxLevel) val = maxLevel;
       setJobLevel(val);
@@ -33,6 +39,13 @@
     min={0}
     max={100}
     step={1}
-    onInput={(e) => setJobPercent(e.target.value)}
+    onInput={(e) => {
+      let val = e.target.value;
+      if (val === "") {
+        setJobPercent("");
+        return;
+      }
+      setJobPercent(val);
+    }}
   />
 </div>
